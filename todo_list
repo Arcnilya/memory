@@ -1,0 +1,11 @@
+- Change the timestamp to easier calculate number of days
+- Handle multiple answers to one question
+- Remove list function?
+- Create answer functionality
+  - Show "correct" on success, and reschedule memory
+  - Show answer on fail, and reschedule memory
+- Create "pick random" function
+   Upgrade to reschedule random
+- Hint field for memory?
+- Fill in help print
+- Display usage on too-few-arguments
